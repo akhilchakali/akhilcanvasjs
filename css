@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.h1 {
+    font-size: 12px;
+    text-align: center;
+}
+
+.ar {
+    padding-left: 10px;
+}
+
+.search-btn {
+    padding-left: 10px;
+}
+
+.upper-cont {
+    background-color: grey;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+}
+
+.second-cont {
+    padding: 20px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+
+}
+
+.second-cont-h1 {
+    text-align: center;
+    font-size: 18px;
+
+}
+
+.btns-cont {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+
+}
+
+.btns-div {
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btns-div-c {
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+}
+
+.btn {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+
+.reset-div {
+    text-align: right;
+    margin: 5px;
+}
+
+.input {
+    width: 50%;
+}
+
+.reset-btn {
+    background-color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+.long-arrow {
+    padding-top: 15px;
+}
+
+.c1 {
+    background-color: yellow;
+}
+
+.c2 {
+    background-color: blue;
+}
+
+.c3 {
+    background-color: red;
+}
+
+.c4 {
+    background-color: green;
+}
+
+.last-div {
+    background-color: grey;
+    height: 30px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    text-align: right;
+    padding: 5px;
+}
+
+p {
+    font-weight: 900;
+    font-weight: bold;
+}
